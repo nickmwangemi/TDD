@@ -35,3 +35,5 @@ JavaScript error: resource://gre/modules/CrashManager.jsm, line 833: NotAllowedE
 ExceptionHandler::WaitForContinueSignal waiting for continue signal...
 ExceptionHandler::GenerateDump cloned child 61527
 ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1618657902634	Marionette	INFO	Stopped listening on port 39205
+1618657904274	Marionette	INFO	Stopped listening on port 33799
